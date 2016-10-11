@@ -2511,8 +2511,8 @@ article.panel-placeholder {
 }
 
 .twentyseventeen-highlight::after {
-	-webkit-animation-duration: 2s;
-	animation-duration: 2s;
+	-webkit-animation-duration: 0.5s;
+	animation-duration: 0.5s;
 	-webkit-animation-name: flash;
 	animation-name: flash;
 	-webkit-animation-timing-function: ease-in-out;
